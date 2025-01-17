@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mossab Milha</h1>
-<h3 align="center">A passionate software developer and tech enthusiast from Morocco</h3>
+<h3 align="center">💻 Passionate about technology with a strong focus on continuous learning and innovation. Proficient in software development, API integration, and problem-solving, I strive to create efficient and scalable solutions while staying updated with the latest advancements in the tech industry</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmilha&label=Profile%20views&color=0e75b6&style=flat" alt="mmilha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmilha" alt="mmilha" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
