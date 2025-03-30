@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmilha&label=Profile%20views&color=0e75b6&style=flat" alt="mmilha" /> </p>
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel** && **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MossabMilha](https://github.com/MossabMilha)
 
