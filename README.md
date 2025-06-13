@@ -70,27 +70,7 @@ const mossab = {
   
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmilha&theme=tokyonight" alt="GitHub Streak" />
-  
-</div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=MossabMilha&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MossabMilha&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  
-</div>
 
 ## 🤝 Connect With Me
 
