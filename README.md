@@ -80,7 +80,7 @@ const mossab = {
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=MMILHA&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MossabMilha&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   
 </div>
 
@@ -88,7 +88,7 @@ const mossab = {
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MMILHA&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MossabMilha&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
   
 </div>
 
