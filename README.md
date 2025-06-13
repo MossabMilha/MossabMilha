@@ -80,7 +80,7 @@ const mossab = {
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=mmilha&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MMILHA&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   
 </div>
 
