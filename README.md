@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Mobile+App+Developer;Cybersecurity+Enthusiast;Technology+Explorer;Innovation+Driven)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⭐+Full+Stack+Developer;Mobile+App+Developer;🔒+Cybersecurity+Enthusiast;Technology+Explorer;Innovation+Driven)
   
   <img src="https://komarev.com/ghpvc/?username=mmilha&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
   
