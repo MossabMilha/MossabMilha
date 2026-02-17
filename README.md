@@ -1,6 +1,5 @@
 # Hey! I'm Mossab 👋
 
-**Founder && CTO Of OM SOLUTION**
 
 ---
 
