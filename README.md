@@ -5,7 +5,7 @@
 
 ## 🚀 **About Me**
 
-I'm a passionate Full Stack Developer specializing in mobile application development and cybersecurity. I have experience building scalable mobile apps using Flutter and developing secure web applications with Laravel. My journey in technology combines creative problem-solving with a strong focus on security best practices.
+Backend Developer specialized in designing robust and practical application systems using Java Spring Boot and Laravel, with solid experience in API design, system architecture, database security, and backend performance optimization.
 
 When I'm not coding, I'm exploring ethical hacking techniques and contributing to open-source projects. I believe in writing clean, efficient code and staying updated with the latest technology trends.
 
