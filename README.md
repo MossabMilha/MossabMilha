@@ -1,7 +1,11 @@
 # Hey! I'm Mossab 👋
 
-
----
+<div align="center">
+  
+### 💭 *"The only one who can beat me is me."* — Aomine Daiki
+### 💭 *"Rest at the end, not in the middle."* — Kobe Bbryant
+  
+</div>
 
 ## 🚀 **About Me**
 
@@ -66,10 +70,3 @@ When I'm not coding, I'm exploring ethical hacking techniques and contributing t
   
 </div>
 
----
-
-<div align="center">
-  
-### 💭 *"The only one who can beat me is me."* — Aomine Daiki
-  
-</div>
